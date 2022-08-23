@@ -1,2 +1,2 @@
-# challenge-1
- Plane Challenge - Excersise-1
+# Challenge-1
+ Plane Challenge - Exercise-1
